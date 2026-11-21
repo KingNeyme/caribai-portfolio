@@ -1,0 +1,9 @@
+name: spice-sea
+channels:
+  - defaults
+dependencies:
+  - jupyter
+  - matplotlib
+  - pandas
+  - python=3.12
+  - ipykernel

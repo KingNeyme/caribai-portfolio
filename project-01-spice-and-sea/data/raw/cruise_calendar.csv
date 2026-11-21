@@ -1,0 +1,377 @@
+date,ship_name,passengers,port
+2024-01-01,Coral Majesty,4500,Port Castries
+2024-01-02,Caribbean Pearl,1800,Port Castries
+2024-01-02,Trade Wind Spirit,1800,Port Castries
+2024-01-03,Sea Voyager,2400,Port Castries
+2024-01-04,Coral Majesty,1200,Port Castries
+2024-01-05,Sea Voyager,3100,Port Castries
+2024-01-05,Coral Majesty,2400,Port Castries
+2024-01-06,Sea Voyager,1200,Port Castries
+2024-01-09,Azure Horizon,4500,Port Castries
+2024-01-10,Sea Voyager,3100,Port Castries
+2024-01-10,Emerald Tide,3100,Port Castries
+2024-01-11,Emerald Tide,4500,Port Castries
+2024-01-12,Atlantic Grace,1200,Port Castries
+2024-01-13,Caribbean Pearl,1800,Port Castries
+2024-01-16,Sea Voyager,2400,Port Castries
+2024-01-18,Atlantic Grace,1200,Port Castries
+2024-01-18,Island Serenade,2400,Port Castries
+2024-01-20,Caribbean Pearl,2400,Port Castries
+2024-01-20,Azure Horizon,3100,Port Castries
+2024-01-21,Coral Majesty,1200,Port Castries
+2024-01-22,Caribbean Pearl,2400,Port Castries
+2024-01-22,Azure Horizon,1200,Port Castries
+2024-01-23,Atlantic Grace,3900,Port Castries
+2024-01-25,Emerald Tide,4500,Port Castries
+2024-01-25,Coral Majesty,2400,Port Castries
+2024-01-26,Caribbean Pearl,3900,Port Castries
+2024-01-27,Emerald Tide,1800,Port Castries
+2024-01-27,Trade Wind Spirit,4500,Port Castries
+2024-01-28,Sea Voyager,3100,Port Castries
+2024-01-30,Sea Voyager,2400,Port Castries
+2024-01-31,Emerald Tide,3100,Port Castries
+2024-02-01,Emerald Tide,1800,Port Castries
+2024-02-02,Sea Voyager,4500,Port Castries
+2024-02-03,Azure Horizon,3900,Port Castries
+2024-02-04,Coral Majesty,3900,Port Castries
+2024-02-04,Caribbean Pearl,3100,Port Castries
+2024-02-05,Island Serenade,4500,Port Castries
+2024-02-07,Caribbean Pearl,3900,Port Castries
+2024-02-11,Caribbean Pearl,4500,Port Castries
+2024-02-12,Coral Majesty,3100,Port Castries
+2024-02-12,Sea Voyager,1800,Port Castries
+2024-02-13,Sea Voyager,4500,Port Castries
+2024-02-16,Island Serenade,3900,Port Castries
+2024-02-17,Caribbean Pearl,1800,Port Castries
+2024-02-21,Azure Horizon,1800,Port Castries
+2024-02-21,Sea Voyager,4500,Port Castries
+2024-02-23,Caribbean Pearl,3100,Port Castries
+2024-02-25,Trade Wind Spirit,1200,Port Castries
+2024-02-26,Atlantic Grace,2400,Port Castries
+2024-02-29,Atlantic Grace,2400,Port Castries
+2024-02-29,Trade Wind Spirit,1800,Port Castries
+2024-03-01,Azure Horizon,4500,Port Castries
+2024-03-05,Azure Horizon,1200,Port Castries
+2024-03-08,Trade Wind Spirit,4500,Port Castries
+2024-03-09,Island Serenade,1800,Port Castries
+2024-03-09,Coral Majesty,1200,Port Castries
+2024-03-10,Atlantic Grace,3100,Port Castries
+2024-03-11,Atlantic Grace,1200,Port Castries
+2024-03-13,Caribbean Pearl,3100,Port Castries
+2024-03-13,Emerald Tide,3100,Port Castries
+2024-03-14,Coral Majesty,3100,Port Castries
+2024-03-14,Sea Voyager,3100,Port Castries
+2024-03-16,Coral Majesty,2400,Port Castries
+2024-03-17,Atlantic Grace,3900,Port Castries
+2024-03-18,Sea Voyager,3100,Port Castries
+2024-03-19,Caribbean Pearl,1800,Port Castries
+2024-03-20,Emerald Tide,2400,Port Castries
+2024-03-20,Atlantic Grace,3100,Port Castries
+2024-03-21,Emerald Tide,3100,Port Castries
+2024-03-22,Emerald Tide,4500,Port Castries
+2024-03-23,Coral Majesty,3100,Port Castries
+2024-03-24,Sea Voyager,4500,Port Castries
+2024-03-25,Trade Wind Spirit,4500,Port Castries
+2024-03-26,Coral Majesty,2400,Port Castries
+2024-03-28,Trade Wind Spirit,1200,Port Castries
+2024-03-28,Caribbean Pearl,3900,Port Castries
+2024-03-29,Coral Majesty,2400,Port Castries
+2024-03-30,Sea Voyager,3100,Port Castries
+2024-03-31,Trade Wind Spirit,1800,Port Castries
+2024-03-31,Atlantic Grace,1800,Port Castries
+2024-04-02,Caribbean Pearl,1200,Port Castries
+2024-04-04,Sea Voyager,1200,Port Castries
+2024-04-04,Island Serenade,1200,Port Castries
+2024-04-06,Caribbean Pearl,4500,Port Castries
+2024-04-07,Atlantic Grace,3100,Port Castries
+2024-04-07,Caribbean Pearl,1800,Port Castries
+2024-04-10,Trade Wind Spirit,1800,Port Castries
+2024-04-10,Azure Horizon,3900,Port Castries
+2024-04-11,Island Serenade,3100,Port Castries
+2024-04-11,Atlantic Grace,1200,Port Castries
+2024-04-14,Azure Horizon,3900,Port Castries
+2024-04-15,Atlantic Grace,3900,Port Castries
+2024-04-16,Atlantic Grace,2400,Port Castries
+2024-04-18,Trade Wind Spirit,1800,Port Castries
+2024-04-19,Trade Wind Spirit,1200,Port Castries
+2024-04-20,Atlantic Grace,3900,Port Castries
+2024-04-22,Island Serenade,2400,Port Castries
+2024-04-23,Island Serenade,1800,Port Castries
+2024-04-23,Coral Majesty,1800,Port Castries
+2024-04-24,Island Serenade,1800,Port Castries
+2024-04-24,Sea Voyager,2400,Port Castries
+2024-04-25,Sea Voyager,4500,Port Castries
+2024-04-26,Emerald Tide,4500,Port Castries
+2024-04-26,Atlantic Grace,2400,Port Castries
+2024-04-29,Coral Majesty,4500,Port Castries
+2024-04-30,Trade Wind Spirit,1800,Port Castries
+2024-05-01,Coral Majesty,1800,Port Castries
+2024-05-02,Atlantic Grace,3900,Port Castries
+2024-05-14,Caribbean Pearl,3100,Port Castries
+2024-05-25,Coral Majesty,1200,Port Castries
+2024-06-02,Trade Wind Spirit,4500,Port Castries
+2024-06-12,Coral Majesty,1200,Port Castries
+2024-06-14,Emerald Tide,3900,Port Castries
+2024-06-22,Sea Voyager,4500,Port Castries
+2024-06-23,Island Serenade,2400,Port Castries
+2024-07-05,Emerald Tide,3100,Port Castries
+2024-07-17,Atlantic Grace,1200,Port Castries
+2024-07-19,Caribbean Pearl,3900,Port Castries
+2024-07-22,Sea Voyager,4500,Port Castries
+2024-07-27,Atlantic Grace,4500,Port Castries
+2024-07-28,Sea Voyager,3900,Port Castries
+2024-07-31,Sea Voyager,4500,Port Castries
+2024-08-07,Island Serenade,3100,Port Castries
+2024-08-08,Sea Voyager,3100,Port Castries
+2024-08-23,Emerald Tide,3100,Port Castries
+2024-08-25,Atlantic Grace,3100,Port Castries
+2024-08-26,Trade Wind Spirit,2400,Port Castries
+2024-09-03,Trade Wind Spirit,3100,Port Castries
+2024-09-05,Emerald Tide,3100,Port Castries
+2024-09-10,Azure Horizon,1200,Port Castries
+2024-09-15,Coral Majesty,2400,Port Castries
+2024-10-01,Azure Horizon,3900,Port Castries
+2024-10-01,Island Serenade,2400,Port Castries
+2024-10-02,Coral Majesty,3100,Port Castries
+2024-10-02,Atlantic Grace,4500,Port Castries
+2024-10-06,Azure Horizon,3900,Port Castries
+2024-10-08,Atlantic Grace,1200,Port Castries
+2024-10-09,Sea Voyager,4500,Port Castries
+2024-10-09,Caribbean Pearl,3900,Port Castries
+2024-10-10,Trade Wind Spirit,2400,Port Castries
+2024-10-11,Coral Majesty,1200,Port Castries
+2024-10-12,Island Serenade,1200,Port Castries
+2024-10-12,Sea Voyager,1800,Port Castries
+2024-10-13,Emerald Tide,3100,Port Castries
+2024-10-14,Sea Voyager,1800,Port Castries
+2024-10-15,Caribbean Pearl,3900,Port Castries
+2024-10-17,Sea Voyager,3100,Port Castries
+2024-10-17,Azure Horizon,3100,Port Castries
+2024-10-19,Trade Wind Spirit,3900,Port Castries
+2024-10-19,Sea Voyager,3900,Port Castries
+2024-10-20,Emerald Tide,1800,Port Castries
+2024-10-21,Island Serenade,3900,Port Castries
+2024-10-23,Coral Majesty,3100,Port Castries
+2024-10-26,Azure Horizon,1200,Port Castries
+2024-10-28,Emerald Tide,3100,Port Castries
+2024-10-30,Coral Majesty,1800,Port Castries
+2024-10-31,Island Serenade,3100,Port Castries
+2024-10-31,Azure Horizon,3900,Port Castries
+2024-11-02,Island Serenade,4500,Port Castries
+2024-11-02,Trade Wind Spirit,3900,Port Castries
+2024-11-04,Sea Voyager,2400,Port Castries
+2024-11-05,Trade Wind Spirit,1800,Port Castries
+2024-11-05,Caribbean Pearl,3900,Port Castries
+2024-11-06,Island Serenade,1200,Port Castries
+2024-11-07,Atlantic Grace,3100,Port Castries
+2024-11-07,Sea Voyager,4500,Port Castries
+2024-11-08,Coral Majesty,1200,Port Castries
+2024-11-08,Atlantic Grace,2400,Port Castries
+2024-11-09,Azure Horizon,2400,Port Castries
+2024-11-11,Coral Majesty,4500,Port Castries
+2024-11-11,Azure Horizon,3900,Port Castries
+2024-11-12,Coral Majesty,3900,Port Castries
+2024-11-14,Azure Horizon,1200,Port Castries
+2024-11-14,Atlantic Grace,1200,Port Castries
+2024-11-15,Emerald Tide,2400,Port Castries
+2024-11-17,Atlantic Grace,3100,Port Castries
+2024-11-19,Sea Voyager,3900,Port Castries
+2024-11-20,Emerald Tide,1800,Port Castries
+2024-11-20,Sea Voyager,1200,Port Castries
+2024-11-23,Trade Wind Spirit,1800,Port Castries
+2024-11-27,Sea Voyager,3900,Port Castries
+2024-11-28,Emerald Tide,2400,Port Castries
+2024-11-29,Trade Wind Spirit,3900,Port Castries
+2024-12-01,Sea Voyager,4500,Port Castries
+2024-12-02,Emerald Tide,1200,Port Castries
+2024-12-02,Atlantic Grace,1200,Port Castries
+2024-12-03,Trade Wind Spirit,1200,Port Castries
+2024-12-06,Atlantic Grace,4500,Port Castries
+2024-12-06,Island Serenade,1200,Port Castries
+2024-12-07,Atlantic Grace,1200,Port Castries
+2024-12-07,Sea Voyager,1200,Port Castries
+2024-12-08,Coral Majesty,1800,Port Castries
+2024-12-08,Trade Wind Spirit,3100,Port Castries
+2024-12-09,Azure Horizon,1200,Port Castries
+2024-12-12,Trade Wind Spirit,1200,Port Castries
+2024-12-16,Coral Majesty,4500,Port Castries
+2024-12-17,Island Serenade,3900,Port Castries
+2024-12-20,Caribbean Pearl,2400,Port Castries
+2024-12-22,Azure Horizon,2400,Port Castries
+2024-12-22,Trade Wind Spirit,2400,Port Castries
+2024-12-23,Atlantic Grace,2400,Port Castries
+2024-12-25,Atlantic Grace,3900,Port Castries
+2024-12-26,Island Serenade,3100,Port Castries
+2024-12-28,Atlantic Grace,1800,Port Castries
+2024-12-29,Atlantic Grace,4500,Port Castries
+2024-12-30,Atlantic Grace,1200,Port Castries
+2025-01-03,Azure Horizon,1800,Port Castries
+2025-01-03,Emerald Tide,1200,Port Castries
+2025-01-06,Azure Horizon,3100,Port Castries
+2025-01-07,Azure Horizon,1200,Port Castries
+2025-01-07,Trade Wind Spirit,3900,Port Castries
+2025-01-08,Emerald Tide,1200,Port Castries
+2025-01-09,Sea Voyager,1800,Port Castries
+2025-01-11,Trade Wind Spirit,3100,Port Castries
+2025-01-13,Trade Wind Spirit,1200,Port Castries
+2025-01-15,Coral Majesty,3900,Port Castries
+2025-01-16,Emerald Tide,1800,Port Castries
+2025-01-17,Coral Majesty,3900,Port Castries
+2025-01-19,Trade Wind Spirit,1800,Port Castries
+2025-01-21,Atlantic Grace,1200,Port Castries
+2025-01-25,Atlantic Grace,1800,Port Castries
+2025-01-25,Caribbean Pearl,3100,Port Castries
+2025-01-28,Island Serenade,1200,Port Castries
+2025-01-28,Caribbean Pearl,3900,Port Castries
+2025-01-30,Emerald Tide,1800,Port Castries
+2025-01-30,Island Serenade,1200,Port Castries
+2025-02-02,Emerald Tide,3900,Port Castries
+2025-02-04,Atlantic Grace,2400,Port Castries
+2025-02-06,Atlantic Grace,3900,Port Castries
+2025-02-07,Azure Horizon,4500,Port Castries
+2025-02-11,Emerald Tide,1800,Port Castries
+2025-02-11,Caribbean Pearl,1800,Port Castries
+2025-02-14,Trade Wind Spirit,1200,Port Castries
+2025-02-14,Coral Majesty,3100,Port Castries
+2025-02-16,Sea Voyager,1200,Port Castries
+2025-02-18,Island Serenade,3100,Port Castries
+2025-02-19,Sea Voyager,1800,Port Castries
+2025-02-21,Sea Voyager,2400,Port Castries
+2025-02-22,Trade Wind Spirit,2400,Port Castries
+2025-02-24,Sea Voyager,3100,Port Castries
+2025-02-26,Caribbean Pearl,2400,Port Castries
+2025-02-27,Azure Horizon,2400,Port Castries
+2025-02-27,Emerald Tide,3100,Port Castries
+2025-02-28,Azure Horizon,2400,Port Castries
+2025-03-01,Caribbean Pearl,1200,Port Castries
+2025-03-03,Caribbean Pearl,1800,Port Castries
+2025-03-03,Sea Voyager,1800,Port Castries
+2025-03-06,Emerald Tide,3900,Port Castries
+2025-03-06,Trade Wind Spirit,2400,Port Castries
+2025-03-08,Emerald Tide,4500,Port Castries
+2025-03-10,Caribbean Pearl,3100,Port Castries
+2025-03-11,Trade Wind Spirit,3900,Port Castries
+2025-03-11,Atlantic Grace,1200,Port Castries
+2025-03-12,Emerald Tide,4500,Port Castries
+2025-03-12,Sea Voyager,2400,Port Castries
+2025-03-16,Trade Wind Spirit,3100,Port Castries
+2025-03-16,Emerald Tide,3900,Port Castries
+2025-03-17,Island Serenade,3900,Port Castries
+2025-03-17,Atlantic Grace,1800,Port Castries
+2025-03-18,Atlantic Grace,1200,Port Castries
+2025-03-19,Trade Wind Spirit,1200,Port Castries
+2025-03-19,Coral Majesty,1800,Port Castries
+2025-03-25,Coral Majesty,1800,Port Castries
+2025-03-25,Caribbean Pearl,4500,Port Castries
+2025-03-26,Caribbean Pearl,4500,Port Castries
+2025-03-26,Island Serenade,1800,Port Castries
+2025-03-28,Caribbean Pearl,3900,Port Castries
+2025-03-29,Island Serenade,2400,Port Castries
+2025-04-01,Sea Voyager,4500,Port Castries
+2025-04-03,Sea Voyager,3900,Port Castries
+2025-04-04,Caribbean Pearl,1800,Port Castries
+2025-04-04,Coral Majesty,3100,Port Castries
+2025-04-06,Coral Majesty,3900,Port Castries
+2025-04-07,Caribbean Pearl,2400,Port Castries
+2025-04-08,Azure Horizon,3100,Port Castries
+2025-04-08,Coral Majesty,3100,Port Castries
+2025-04-09,Emerald Tide,1200,Port Castries
+2025-04-10,Trade Wind Spirit,1200,Port Castries
+2025-04-11,Sea Voyager,1200,Port Castries
+2025-04-12,Caribbean Pearl,3100,Port Castries
+2025-04-12,Atlantic Grace,3900,Port Castries
+2025-04-14,Azure Horizon,3900,Port Castries
+2025-04-15,Caribbean Pearl,4500,Port Castries
+2025-04-23,Coral Majesty,3900,Port Castries
+2025-04-24,Emerald Tide,1800,Port Castries
+2025-04-25,Trade Wind Spirit,2400,Port Castries
+2025-04-26,Sea Voyager,1800,Port Castries
+2025-04-27,Atlantic Grace,2400,Port Castries
+2025-04-30,Island Serenade,3100,Port Castries
+2025-04-30,Sea Voyager,1200,Port Castries
+2025-05-01,Coral Majesty,1200,Port Castries
+2025-05-06,Coral Majesty,2400,Port Castries
+2025-05-12,Coral Majesty,4500,Port Castries
+2025-05-15,Emerald Tide,1200,Port Castries
+2025-05-23,Sea Voyager,1200,Port Castries
+2025-05-25,Sea Voyager,1200,Port Castries
+2025-05-30,Coral Majesty,2400,Port Castries
+2025-06-04,Island Serenade,3900,Port Castries
+2025-06-10,Coral Majesty,1800,Port Castries
+2025-06-12,Trade Wind Spirit,3900,Port Castries
+2025-07-03,Sea Voyager,1200,Port Castries
+2025-07-04,Trade Wind Spirit,3900,Port Castries
+2025-07-13,Sea Voyager,3900,Port Castries
+2025-07-24,Emerald Tide,4500,Port Castries
+2025-08-02,Caribbean Pearl,3900,Port Castries
+2025-08-03,Sea Voyager,3100,Port Castries
+2025-08-07,Emerald Tide,2400,Port Castries
+2025-08-08,Caribbean Pearl,3900,Port Castries
+2025-08-24,Island Serenade,1800,Port Castries
+2025-08-29,Coral Majesty,4500,Port Castries
+2025-09-01,Emerald Tide,2400,Port Castries
+2025-09-06,Coral Majesty,3900,Port Castries
+2025-09-09,Caribbean Pearl,3900,Port Castries
+2025-09-20,Trade Wind Spirit,1200,Port Castries
+2025-09-23,Atlantic Grace,1200,Port Castries
+2025-09-29,Coral Majesty,2400,Port Castries
+2025-10-01,Island Serenade,3900,Port Castries
+2025-10-01,Sea Voyager,2400,Port Castries
+2025-10-02,Trade Wind Spirit,4500,Port Castries
+2025-10-04,Trade Wind Spirit,3900,Port Castries
+2025-10-05,Island Serenade,4500,Port Castries
+2025-10-07,Sea Voyager,4500,Port Castries
+2025-10-08,Caribbean Pearl,1200,Port Castries
+2025-10-10,Azure Horizon,3100,Port Castries
+2025-10-16,Coral Majesty,3900,Port Castries
+2025-10-19,Trade Wind Spirit,2400,Port Castries
+2025-10-20,Island Serenade,4500,Port Castries
+2025-10-20,Trade Wind Spirit,4500,Port Castries
+2025-10-24,Azure Horizon,4500,Port Castries
+2025-10-25,Azure Horizon,1800,Port Castries
+2025-10-27,Sea Voyager,2400,Port Castries
+2025-10-27,Emerald Tide,1200,Port Castries
+2025-10-28,Atlantic Grace,3900,Port Castries
+2025-11-03,Azure Horizon,2400,Port Castries
+2025-11-06,Trade Wind Spirit,2400,Port Castries
+2025-11-08,Emerald Tide,2400,Port Castries
+2025-11-11,Coral Majesty,4500,Port Castries
+2025-11-11,Island Serenade,3900,Port Castries
+2025-11-13,Sea Voyager,1200,Port Castries
+2025-11-13,Atlantic Grace,2400,Port Castries
+2025-11-15,Emerald Tide,3900,Port Castries
+2025-11-17,Island Serenade,2400,Port Castries
+2025-11-18,Atlantic Grace,1800,Port Castries
+2025-11-19,Azure Horizon,2400,Port Castries
+2025-11-20,Coral Majesty,1800,Port Castries
+2025-11-21,Caribbean Pearl,3100,Port Castries
+2025-11-21,Island Serenade,3900,Port Castries
+2025-11-23,Emerald Tide,1200,Port Castries
+2025-11-25,Emerald Tide,4500,Port Castries
+2025-11-26,Atlantic Grace,1800,Port Castries
+2025-11-26,Trade Wind Spirit,1200,Port Castries
+2025-11-27,Azure Horizon,1800,Port Castries
+2025-11-27,Sea Voyager,3900,Port Castries
+2025-11-28,Azure Horizon,2400,Port Castries
+2025-11-29,Coral Majesty,1200,Port Castries
+2025-11-30,Caribbean Pearl,4500,Port Castries
+2025-12-02,Caribbean Pearl,1800,Port Castries
+2025-12-05,Sea Voyager,1200,Port Castries
+2025-12-05,Coral Majesty,3100,Port Castries
+2025-12-06,Coral Majesty,2400,Port Castries
+2025-12-07,Atlantic Grace,2400,Port Castries
+2025-12-14,Atlantic Grace,1800,Port Castries
+2025-12-15,Coral Majesty,4500,Port Castries
+2025-12-18,Azure Horizon,3100,Port Castries
+2025-12-19,Island Serenade,3100,Port Castries
+2025-12-21,Atlantic Grace,2400,Port Castries
+2025-12-21,Island Serenade,2400,Port Castries
+2025-12-24,Caribbean Pearl,1800,Port Castries
+2025-12-24,Sea Voyager,4500,Port Castries
+2025-12-25,Caribbean Pearl,1200,Port Castries
+2025-12-25,Emerald Tide,3100,Port Castries
+2025-12-27,Azure Horizon,3100,Port Castries
+2025-12-29,Azure Horizon,1200,Port Castries
+2025-12-29,Atlantic Grace,1800,Port Castries
+2025-12-30,Emerald Tide,3900,Port Castries
+2025-12-30,Sea Voyager,3100,Port Castries

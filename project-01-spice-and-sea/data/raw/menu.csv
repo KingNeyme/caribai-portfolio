@@ -1,0 +1,43 @@
+item_id,item_name,category,price_ec,effective_from,effective_to
+S01,Callaloo Soup,Starters,35,2024-01-01,2025-05-31
+S01,Callaloo Soup,Starters,38,2025-06-01,
+S02,Accra & Saltfish,Starters,38,2024-01-01,2025-05-31
+S02,Accra & Saltfish,Starters,41,2025-06-01,
+S03,Caesar Salad,Starters,45,2024-01-01,
+S04,Calamari,Starters,55,2024-01-01,
+S05,Pumpkin Soup,Starters,32,2024-01-01,2025-05-31
+S05,Pumpkin Soup,Starters,35,2025-06-01,
+M01,Grilled Mahi-Mahi,Mains,88,2024-01-01,2025-05-31
+M01,Grilled Mahi-Mahi,Mains,95,2025-06-01,
+M02,Jerk Chicken Plate,Mains,72,2024-01-01,2025-05-31
+M02,Jerk Chicken Plate,Mains,78,2025-06-01,
+M03,Creole Snapper,Mains,95,2024-01-01,2025-05-31
+M03,Creole Snapper,Mains,103,2025-06-01,
+M04,Pasta Alfredo,Mains,65,2024-01-01,
+M05,Beef Burger,Mains,70,2024-01-01,
+M06,Ribeye Steak,Mains,145,2024-01-01,
+M07,Vegetable Curry,Mains,58,2024-01-01,2025-05-31
+M07,Vegetable Curry,Mains,63,2025-06-01,
+M08,Green Fig & Saltfish,Mains,62,2024-01-01,2025-05-31
+M08,Green Fig & Saltfish,Mains,67,2025-06-01,
+D01,Fries,Sides,18,2024-01-01,
+D02,Fried Plantain,Sides,15,2024-01-01,2025-05-31
+D02,Fried Plantain,Sides,16,2025-06-01,
+D03,Rice & Peas,Sides,15,2024-01-01,2025-05-31
+D03,Rice & Peas,Sides,16,2025-06-01,
+E01,Chocolate Lava Cake,Desserts,42,2024-01-01,
+E02,Banana Foster,Desserts,38,2024-01-01,2025-05-31
+E02,Banana Foster,Desserts,41,2025-06-01,
+E03,Rum Cake,Desserts,32,2024-01-01,2025-05-31
+E03,Rum Cake,Desserts,35,2025-06-01,
+B01,Rum Punch,Drinks,28,2024-01-01,2025-05-31
+B01,Rum Punch,Drinks,30,2025-06-01,
+B02,Coconut Water,Drinks,18,2024-01-01,2025-05-31
+B02,Coconut Water,Drinks,19,2025-06-01,
+B03,Imported Beer,Drinks,30,2024-01-01,
+B04,Piton Beer,Drinks,22,2024-01-01,2025-05-31
+B04,Piton Beer,Drinks,24,2025-06-01,
+B05,Soft Drink,Drinks,15,2024-01-01,
+B06,Fresh Juice,Drinks,20,2024-01-01,2025-05-31
+B06,Fresh Juice,Drinks,22,2025-06-01,
+B07,Wine (Glass),Drinks,45,2024-01-01,
