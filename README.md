@@ -28,7 +28,7 @@ founder of **[CaribAI Labs](https://caribailabs.com)**.
 Most data tools, datasets and case studies aren't built with the Caribbean in mind. This
 repository is my answer to that: a portfolio of projects grounded in Caribbean
 realities. EC$ pricing, cruise ship days, Carnival and Jounen Kwéyòl, hurricane season,
-import-dependent supply chains. Each one is built the way it would be for a real client.
+import-dependent supply chains.
 
 **Every project is delivered the way it would be for a real client:** a brief, a documented
 look at the data, reproducible analysis, clear recommendations, and a tool the client can
